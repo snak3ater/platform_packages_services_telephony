@@ -527,4 +527,8 @@
     <string name="enable_video_calling_dialog_msg" msgid="6547569773866546434">"Per attivare la videochiamata, devi abilitare la modalità avanzata 4G LTE nelle impostazioni di sistema."</string>
     <string name="enable_video_calling_dialog_settings" msgid="576528473599603249">"Impostazioni di rete"</string>
     <string name="enable_video_calling_dialog_close" msgid="7411471282167927991">"Chiudi"</string>
+    <string name="advanced_setting">Impostazioni avanzate</string>
+    <string name="blacklist_title">Blacklist</string>
+    <string name="blacklist_summary_disabled">Disattivata</string>
+    <string name="blacklist_summary">Le chiamate in arrivo dai numeri nella blacklist saranno bloccate</string>
 </resources>
