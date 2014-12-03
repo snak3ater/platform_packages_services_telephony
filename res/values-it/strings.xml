@@ -531,14 +531,4 @@
     <string name="blacklist_title">Blacklist</string>
     <string name="blacklist_summary_disabled">Disattivata</string>
     <string name="blacklist_summary">Le chiamate in arrivo dai numeri nella blacklist saranno bloccate</string>
-    <string name="blacklist_call_notification">Una chiamata da %s è stata bloccata</string>
-    <string name="blacklist_call_notification_private_number">Una chiamata da un numero privato è stata bloccata</string>
-    <string name="blacklist_call_notification_unknown_number">Una chiamata dal numero %s è stata bloccata</string>
-    <string name="blacklist_call_notification_multiple"><xliff:g id="count">%d</xliff:g> chiamate sono state bloccate</string>
-    <string name="blacklist_notification_list_private">Privati</string>
-    <string name="blacklist_message_notification">Un messaggio da %s è stato bloccato</string>
-    <string name="blacklist_message_notification_private_number">Un messaggio da un numero privato è stato bloccato</string>
-    <string name="blacklist_message_notification_unknown_number">Un messaggio dal numero %s è stato bloccato</string>
-    <string name="blacklist_message_notification_multiple"><xliff:g id="count">%d</xliff:g> messaggi sono stati bloccati</string>
-    <string name="unblock_number">Sblocca</string>
 </resources>
